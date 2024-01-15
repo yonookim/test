@@ -1,4 +1,4 @@
 #Hello World!
 Git Hand-on class
 
-Prepare for Git
+Prepare for Git Kraken!
